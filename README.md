@@ -14,6 +14,7 @@ Bản tổng hợp này dựa trên các nguồn tài liệu:
 * [Nội dung kiến thức](#nội-dung-kiến-thức)
 * [Ôn tập](#ôn-tập)
 * [Chuẩn bị thi](#chuẩn-bị-thi)
+* [Từ vựng tiếng Anh](vocabulary.md)
 
 ---
 
