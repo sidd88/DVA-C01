@@ -22,9 +22,7 @@ Bản tổng hợp này dựa trên các nguồn tài liệu:
 
 Kiến thức trong tài liệu tổng hợp này sẽ dựa trên nội dung của khoá học Udemy [AWS Certified Developer Associate](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/), bao gồm các mục:
 
-* Section 1: Course Introduction - AWS Certified Developer Associate
-* Section 2: Code & Slides Download
-* Section 3: Getting started with AWS
+* [Getting started with AWS](noidung/getting-started-with-aws.md)
 * Section 4: IAM & AWS CLI
 * Section 5: EC2 Fundamentals
 * Section 6: EC2 Instance Storage
