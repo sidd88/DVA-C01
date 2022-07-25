@@ -22,6 +22,8 @@ Danh sách từ vựng tiếng Anh cần ghi nhớ trong quá trình học. Danh
 * [Isolate](#isolate)
 * [Disaster](#disaster)
 * [Presence](#presence)
+* [Eligible](#eligible)
+* [Rent](#rent)
 
 ----
 
@@ -146,3 +148,19 @@ and scaled very easily.
 /'prezns/ sự có mặt, sự hiện diện
 
 > AWS Points of `Presence` (Edge Locations)
+
+### Eligible
+
+/'elidʒəbl/ đủ tư cách, thích hợp
+
+> Free tier `eligible`
+
+### Rent
+
+/rent/ thuê, cho thuê
+
+> `Renting` virtual machines
+
+### Predictable
+
+/pri'diktəbl/
